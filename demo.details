@@ -1,0 +1,15 @@
+Everything before the line containing only '---' will not be parsed
+
+---
+ name: Brightcove CMS API Video Schema Generator
+ description: Generates a video schema with iframe player embed code
+ authors:
+   - Robert Crooks
+   - Brightcove Learning Services
+ resources:
+   - https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.0/handlebars.min.js
+   - http://other.url.com/other_filename.css
+ normalize_css: no
+ ...
+
+Everything after the line containing only '...' will not be parsed
