@@ -1,5 +1,3 @@
-Everything before the line containing only '---' will not be parsed
-
 ---
  name: Brightcove CMS API Video Schema Generator
  description: Generates a video schema with iframe player embed code
