@@ -4,8 +4,6 @@
  authors:
    - Robert Crooks
    - Brightcove Learning Services
- resources:
-   - https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.0/handlebars.min.js
  normalize_css: no
  ...
 
