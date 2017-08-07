@@ -6,5 +6,3 @@
    - Brightcove Learning Services
  normalize_css: no
  ...
-
-Everything after the line containing only '...' will not be parsed
